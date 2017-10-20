@@ -6,4 +6,4 @@ A simple example/template of how to use the Java Alexa Skills Kit to create an A
 <br/>
 <br/>
 <b>AWS Lambda Handler:</b> <br/>
-<code>com.spriton.echo.endpoints.MormonChannelMusicHandler</code>
+<code>com.spriton.echo.endpoints.MusicStreamRequestHandler</code>
