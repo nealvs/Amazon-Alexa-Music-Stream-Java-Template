@@ -4,5 +4,6 @@ A simple example/template of how to use the Java Alexa Skills Kit to create an A
 <b>Maven Build Command:</b> <br/>
 <code>mvn clean assembly:assembly -DdescriptorId=jar-with-dependencies package</code>
 <br/>
-<b>AWS Lambda Handler</b>
+<br/>
+<b>AWS Lambda Handler:</b> <br/>
 <code>com.spriton.echo.endpoints.MormonChannelMusicHandler</code>
